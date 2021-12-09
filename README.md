@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 🔭 I’m currently working on a Fullstack registration form
 - 🌱 I’m currently learning C#, .NET, and furthering my mySQL knowledge.
