@@ -4,7 +4,8 @@
 
 - 📫 How to reach me: Linkedin
 
-
+-GitLab for additional training from Niit
+https://gitlab-cgi.stackroute.in/ian.mcconihay
 
 <p align="left">
 </p>
